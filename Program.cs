@@ -4,7 +4,7 @@ namespace MathSolution
 {
     class Program
     {
-        private static Math math= new Math();
+        public static Math math= new Math();
 
         static void Main(string[] args)
         {

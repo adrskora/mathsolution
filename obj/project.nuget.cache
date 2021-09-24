@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MznVbeLY69I8bbGi7axoyPlvzY2Cb0MW1qtoQiQY+6IXmyTEpjagz5lqzwmukEiAn85wJL8zKQCuKabLcQ1lyg==",
+  "dgSpecHash": "vetHFPGH1YuB6/XR2HmdIq37dQtu0r9v20kbhjzjktPeeGrusWBhWGlHX4uZ/h/fPEJnj2R3xVEMJCETBAm6lg==",
   "success": true,
   "projectFilePath": "C:\\szkolenie\\MathSolution\\MathSolution.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }
