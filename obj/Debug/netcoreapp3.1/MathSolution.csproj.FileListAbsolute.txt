@@ -1,0 +1,13 @@
+C:\szkolenie\MathSolution\bin\Debug\netcoreapp3.1\MathSolution.exe
+C:\szkolenie\MathSolution\bin\Debug\netcoreapp3.1\MathSolution.deps.json
+C:\szkolenie\MathSolution\bin\Debug\netcoreapp3.1\MathSolution.runtimeconfig.json
+C:\szkolenie\MathSolution\bin\Debug\netcoreapp3.1\MathSolution.runtimeconfig.dev.json
+C:\szkolenie\MathSolution\bin\Debug\netcoreapp3.1\MathSolution.dll
+C:\szkolenie\MathSolution\bin\Debug\netcoreapp3.1\MathSolution.pdb
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.csprojAssemblyReference.cache
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.AssemblyInfoInputs.cache
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.AssemblyInfo.cs
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.csproj.CoreCompileInputs.cache
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.dll
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.pdb
+C:\szkolenie\MathSolution\obj\Debug\netcoreapp3.1\MathSolution.genruntimeconfig.cache
